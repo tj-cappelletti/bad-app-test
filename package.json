@@ -1,0 +1,16 @@
+{
+  "name": "bad",
+  "version": "1.0.0",
+  "description": "Bad NodeJS practices",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "startBetter": "node index-corrected.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "*"
+  }
+}
